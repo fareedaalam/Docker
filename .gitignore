@@ -1,0 +1,28 @@
+﻿# .NET Core
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# NuGet Packages
+*.nuget.cache
+*.dll
+*.exe
+*.pdb
+*.user
+*.ps1xml
+*.psd1
+*.psc1
+*.csproj
+*.resx
+*.xaml
+*.targets
+*.config
+*.json
+*.map
+*.lock
+*.userprefs
+*.nupkg
+*.sln
+*.vspx

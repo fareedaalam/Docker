@@ -1,0 +1,12 @@
+﻿//Create a dotnet core app
+dotnet new web
+
+//Add docker yml file
+
+//create docker image
+docker build -t fd-image -f Dockerfile .
+
+--run the docker desktop
+
+//run the docker image
+docker run -p 8080:80 fd-image
